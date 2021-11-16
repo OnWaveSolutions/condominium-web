@@ -12,7 +12,7 @@
     "ag-grid-community": "^20.2.0",
     "ag-grid-react": "^20.2.0",
     "antd": "^3.16.2",
-    "aws-sdk": "^2.503.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "history": "^4.9.0",
     "http-proxy-middleware": "^0.19.1",
